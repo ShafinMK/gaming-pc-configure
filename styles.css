@@ -1,0 +1,36 @@
+h3{
+    color: blue;
+
+}
+
+.blackButton:hover{
+    background-color: black;
+    color: white;
+}
+.blackButton:focus{
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+.blackButton{
+    /* padding: 10px 20px; */
+    border: 2px solid black;
+    
+}
+.smallbtn{
+padding: 10px 50px;
+}
+.hotPinkBtn{
+    background-color: hotpink;
+    color: white;
+}
+h5{
+    background-color: #63ace5;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+/* .row{
+    border: 1px solid black;
+} */
